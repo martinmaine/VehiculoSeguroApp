@@ -7,12 +7,10 @@ Sistema de Gestión de Vehículos y Seguros
 
 ## 👥 Equipo
 
-Martín Maine
-Juan Martinez
-Gevont Joaquin Utmazian
+Martín Maine, Juan Martinez y Gevont Joaquin Utmazian
 
 
-##  🎬 Video: 
+##  🎬 Video: https://youtu.be/WNfC0RVmhxg
 
 
 Características
